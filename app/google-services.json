@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "358017410780",
+    "project_id": "tiendadeportiva-10612",
+    "storage_bucket": "tiendadeportiva-10612.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358017410780:android:36f37abdfae0ccf310f619",
+        "android_client_info": {
+          "package_name": "com.example.tiendadeportivaversion3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358017410780-a8h51r367vp51j3dh5e8ivcp8khbn71n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX1O1i0nQLNOOnARbwgcuMtqtO3-st4sQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358017410780-a8h51r367vp51j3dh5e8ivcp8khbn71n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tienda deportiva version 3</string>
+
+    <string name="texto_productos">PRODUCTOS</string>
+    <string name="titulo_balon_2022">Balón mundial 2022</string>
+    <string name="texto_volver">Volver</string>
+    <string name="texto_tienda">Tienda</string>
+    <string name="texto_detalles">Detalles</string>
+    <string name="texto_nombre">Nombre</string>
+    <string name="texto_descripcion">Descripcion</string>
+    <string name="texto_precio">Precio</string>
+    <string name="texto_agregar">Agregar</string>
+</resources>
